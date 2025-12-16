@@ -1,6 +1,6 @@
 # Vichara: Legal Judgment Prediction and Explanation for the Indian Judicial System
 
-<img width="2559" height="790" alt="image" src="https://github.com/user-attachments/assets/f006c087-18bf-45e8-a58f-9b5f28b17af5" />
+<img width="1279" height="396" alt="image" src="https://github.com/user-attachments/assets/5b7e9666-3d3d-4b47-9b16-e47116b58282" />
 
 We present **Vichara**, a novel framework tailored to the Indian judicial system that predicts and explains legal judgments. Vichara decomposes case proceeding documents into _decision points_. Decision points are discrete legal determinations that encapsulate the legal issue, deciding authority, outcome, reasoning, and temporal context. The structured representation isolates the core determinations and their context, enabling accurate predictions and interpretable explanations. Vichara's explanations follow a structured format, inspired by the IRAC (Issue-Rule-Application-Conclusion) framework and adapted for Indian legal reasoning. This enhances interpretability, allowing legal professionals to assess the soundness of predictions efficiently. 
 
@@ -31,6 +31,7 @@ Contains the core modules of the framework.
 Contains utility scripts.
 
 - `prompts.py` – Contains prompt templates used for LLM-based tasks.
+
 
 
 
